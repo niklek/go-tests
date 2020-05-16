@@ -1,3 +1,5 @@
+// Tests detecting a substring in a string
+// go test -bench . substring_test.go
 package main
 
 import (
